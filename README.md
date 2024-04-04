@@ -2,8 +2,23 @@
 
 ## 🧙 The Quest for Database Dominion: An RPG Adventure 🧙
 
-### Introduction:
-Embark on a thrilling journey into the realm of SQL, where the fate of client and vendor data hangs in the balance. As brave adventurers, we're tasked with forging a powerful database to conquer chaos and restore order to the kingdom of business.
+## **Introduction:**
+
+ **In the sprawling metropolis of SQL City, where data flows like rivers of knowledge and tables stand tall like ancient monuments, there exists a realm known as "tbCliente." Here, amidst the bustling streets and hidden alleyways, dwell the enigmatic beings known as clients.**
+
+**Each client, shrouded in mystery, is identified by their CPF, a cryptic code whispered only in hushed tones. Their names (NM) are etched into the fabric of the city, their addresses (ADDRESS1 and ADDRESS2) serving as portals to their hidden abodes.**
+
+**In the sprawling metropolis of SQL City, where data flows like rivers of knowledge and tables stand tall like ancient monuments, there exists a realm known as "tbCliente." Here, amidst the bustling streets and hidden alleyways, dwell the enigmatic beings known as clients.**
+
+**Each client, shrouded in mystery, is identified by their CPF, a cryptic code whispered only in hushed tones. Their names (NM) are etched into the fabric of the city, their addresses (ADDRESS1 and ADDRESS2) serving as portals to their hidden abodes.**
+
+**Yet, in this city of dreams and aspirations, commerce thrives. The CREDIT_LIMIT and BUY_VOLUME are the lifeblood of the economy, pulsating with the energy of transactions made and fortunes gained. And as the dawn of each new venture rises, the FISTBUY flag stands as a beacon of hope—a symbol of beginnings and endless possibilities.**
+
+**But beyond the realm of clients lies another domain: the VENDOR_TABLE. Here, under the watchful gaze of the commission gods, vendors carve their names into the annals of commerce with their REGISTRATION codes. Each vendor, a master of their craft, brings their unique skills and offerings to the bustling marketplace.**
+
+**And amidst the chaos of trade, the PERCENTAGE_COMMISSION reigns supreme—a silent arbiter of wealth and power, guiding the currents of prosperity through SQL City. Thus, in this epic saga of data and destiny, the tale of tbCliente and VENDOR_TABLE unfolds—a story of adventure, intrigue, and the boundless possibilities of the SQL realm.**
+
+**But beyond the tangible lies the essence of their existence—the NEIGHBORHOOD, CITY, STATE, and CEP—a tapestry of locales that tell tales of journeys taken and destinies yet to unfold. Age and gender, embodied in AGE and SEX, add layers to their stories, hinting at the adventures they've faced and the challenges they've overcome.**
 
 ### Database Design:
 Our quest begins with crafting the sacred tables of client and vendor, each imbued with mystical attributes like name, year, address, and contact details. These tables form the bedrock of our database kingdom, ensuring the orderly storage and retrieval of vital information.
@@ -34,3 +49,4 @@ As our adventure unfolds, new horizons beckon on the horizon. Future quests may 
 
 ### Conclusion:
 In the annals of RPG history, our quest for database dominion shall be remembered as a saga of epic proportions. Through bravery, ingenuity, and the power of SQL sorcery, we have forged a legacy that will echo through the ages, shaping the destiny of business realms far and wide.
+
