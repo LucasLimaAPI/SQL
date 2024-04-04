@@ -1,4 +1,4 @@
- # SQL  💹
+ # SQL  🔮
 
 ## 🧙 The Quest for Database Dominion: An RPG Adventure 🧙
 
