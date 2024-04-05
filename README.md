@@ -1,5 +1,7 @@
  # SQL  🔮
 
+ https://cursos.alura.com.br/course/mysql-manipule-dados-com-sql/task/54335
+
 ## 🧙 The Quest for Database Dominion: An RPG Adventure 🧙
 
 ## **Introduction:**
