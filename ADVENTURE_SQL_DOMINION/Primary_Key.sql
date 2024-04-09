@@ -1,0 +1,5 @@
+USE Juices;
+
+ALTER TABLE TBproduct ADD PRIMARY KEY (PRODUCT);
+
+SELECT * FROM TBproduct;

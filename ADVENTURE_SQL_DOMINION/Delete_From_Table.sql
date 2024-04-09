@@ -1,0 +1,3 @@
+USE Juices;
+
+DELETE FROM TBproduct WHERE PRODUTO = '1088126';
