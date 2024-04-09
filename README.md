@@ -1,6 +1,6 @@
  # SQL  🔮
 
-## 🧙 The Quest for Database Dominion🧙
+## 🧙 The Quest for Database Dominion 🧙
 
 ## **Introduction:**
 
