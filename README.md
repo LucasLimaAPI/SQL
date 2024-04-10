@@ -2,6 +2,8 @@
 
 ## 🧙 The Quest for Database Dominion 🧙
 
+![img](https://github.com/LucasLimaAPI/Images/blob/main/image0_0.jpg?raw=true)
+
 ## **Introduction:**
 
  **In the sprawling metropolis of SQL City, where data flows like rivers of knowledge and tables stand tall like ancient monuments, there exists a realm known as "tbCliente." Here, amidst the bustling streets and hidden alleyways, dwell the enigmatic beings known as clients.**
