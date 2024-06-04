@@ -2,7 +2,6 @@
 
 ## 🧙 The Quest for Database Dominion 🧙
 
-![img](https://cdn.gencraft.com/prod/user/0ccba379-72d1-4d23-906b-4fd52b033f8d/37f95451-e4c2-4e3f-88ef-612be98aa491/image/image0_0.jpg?Expires=1712782426&Signature=Tj9l9pvi-8zm4ZLmivOuHGgFlR6HD8FkeeYiRRkyjbnUN1RsRl5YRkH8vB0~AHxU7gkHNXnSLeDhe5kIC3sJQcyRB1b5df7lqL6-B8iN4vrksy92TdEgxBCrS4AOZ3NmUqHjAzFDGy7~Jzz7i7y4kusVR5ZPZo6VJqKfqSFfv6JBEM5~Nfw1n9Sd1AW3DlT~efiv0XXcWX0wrukfxgGPyfpYzYrgD7bbSZridc4q5j1eJF7Iy54x2yj259twrSB6TYYtzcRrY0arUkfWAKexkrp2tEiwbOU-ms4t9r6GNZZFG7T~JoAhsn8mdycpbH~ByyIgxehon24Ac9-xMpSRwg__&Key-Pair-Id=K3RDDB1TZ8BHT8)
 
 ## **Introduction:**
 
